@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/HotKey"]
+	path = Carthage/Checkouts/HotKey
+	url = https://github.com/soffes/HotKey.git
